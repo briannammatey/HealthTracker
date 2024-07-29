@@ -5,6 +5,7 @@ This health tracker has ***FIVE*** different sections:
 - Food Plan
 - Mental Health Plan
 
+# FEATURES
 ## Health class
 This is section is the main class, where all the classes are called, and where the main menu is showcased. This ia basically the starter for the code.
 
@@ -47,9 +48,9 @@ This section uses the Scanner class for user input, and asks the user how they a
 
 ### Diary Section
 This section utilizes the DiaryEntry class, and the Diary class, while executing in the Mental class.
-- The DiaryEntry class is used to hold accessor methods, and to override the toString Method. Also to initialize Linked List fields. Leading to efficient usage in the Diary Cklass
+- The DiaryEntry class is used to hold accessor methods, and to override the toString Method. Also to initialize Linked List fields. Leading to efficient usage in the Diary Class
 - The Diary class is used to hold methods such as deleteEntry, addEntry, and printAllEntries, maintaining linked lists methods, to create an efficient journal for the user to use
 - Now in the Mental class, the switch method isused to be able to add entries, delete entries based on the date, and to be able to list out all the users entries
-
+# How to Use
 
 

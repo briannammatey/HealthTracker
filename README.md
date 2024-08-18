@@ -1,9 +1,14 @@
 # Welcome to the Health Tracker
+
+## What does this Tracker do?
+This tracker aims to help individuals, track their health, and plan out healthy habits. My inspiration to this, is that I have been an advocate for finding solutions to deal with PCOS, and helping women who suffer from it, and mainting your weight, food, calorie intake, and mental health is the most important thing to help with it.
+<br>
 This health tracker has ***FIVE*** different sections:
 - Calorie Intake
 - Workout Plan
 - Food Plan
 - Mental Health Plan
+
 
 # FEATURES
 ## Health class
@@ -51,6 +56,6 @@ This section utilizes the DiaryEntry class, and the Diary class, while executing
 - The DiaryEntry class is used to hold accessor methods, and to override the toString Method. Also to initialize Linked List fields. Leading to efficient usage in the Diary Class
 - The Diary class is used to hold methods such as deleteEntry, addEntry, and printAllEntries, maintaining linked lists methods, to create an efficient journal for the user to use
 - Now in the Mental class, the switch method isused to be able to add entries, delete entries based on the date, and to be able to list out all the users entries
-# How to Use
+
 
 

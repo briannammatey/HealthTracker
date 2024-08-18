@@ -9,19 +9,22 @@ This health tracker has ***FIVE*** different sections:
 - Food Plan
 - Mental Health Plan
 
+# HOW TO USE
+This is entirely text based, and all you have to do is type in your number corresponding to the section you want to enter in. If you put in a number that is not provided in the menu selections, then you will be prompted to try again. 
 
-# FEATURES
-## Health class
+
+# ⭐️FEATURES⭐️
+## HEALTH CLASS
 This is section is the main class, where all the classes are called, and where the main menu is showcased. This ia basically the starter for the code.
 
-## CalorieTracker class
+## CALORIE TRACKER CLASS
 This section, is a simple way to track your calorie intake, and see if it matches with your goal. This section first asks what your calorie intake goal is today, using the Scanner class. Then using a while loop, it asks the user to input the amount of calories they intook today. It uses a function called dailycaloriecounter, which changes the the static variable dailycalorie. With this it is later compared to the users' goal, and the code tells them if they have reached the goal, if they have eaten less than their goal, or if they have eaten greater
 
-## WorkoutPlan class
+## WORKOUT PLAN CLASS 🥇
  <img src= "https://raw.githubusercontent.com/briannammatey/HealthTracker/main/penguin_workout.webp" alt="GIF" width="200">
 In this section, the user will be able to generate a workout plan, based on their muscle group. The user will get to pick if they are *beginner, intermediate or expert*, Then they will pick between full body workouts, arm workouts, core workouts and leg workouts.In this code the Random class is used, while also using the Stacks class, to efficiently pick a randomized workout plan for the user. After the user can simply pless 3 if they are done.
 
-## FoodPlan class
+## FOOD PLAN CLASS 🌯
 <img src="https://raw.githubusercontent.com/briannammatey/HealthTracker/main/foodpenguin.webp" alt="GIF" width="200">
 
 In this section, there are *FOUR* different categories:
@@ -42,6 +45,8 @@ The PCOS Food guide ection generates healthy food options, catered to people tha
 Uses the HashMaps Class and the Scanner Class to allow the user to input their food options, for Breakfast, Lunch and Dinner, and after lists out the users food options.
 
 ## Mental Class
+ <img src= "https://raw.githubusercontent.com/briannammatey/HealthTracker/main/sad_penguin.webp" alt="GIF" width="200">
+
 There are *THREE* sections to this guide
 - Breathing and Meditation exercises 
 - Mental Health Advice

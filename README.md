@@ -1,5 +1,5 @@
 # Welcome to the Health Tracker
- <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/doggy.webp" alt="GIF" width="50">
+ <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/penguin workout.webp" alt="GIF" width="50">
 ## What does this Tracker do?
 This tracker aims to help individuals, track their health, and plan out healthy habits. My inspiration to this, is that I have been an advocate for finding solutions to deal with PCOS, and helping women who suffer from it, and mainting your weight, food, calorie intake, and mental health is the most important thing to help with it.
 <br>
